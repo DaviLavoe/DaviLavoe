@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="baner.jpg" alt="Banner David Ayala" width="100%" />
+  <img src="baner.png" alt="Banner David Ayala" width="100%" />
 </div>
 # Hola, soy David Ayala 👋
 ### Desarrollador Full-Stack & Estudiante de Ing. de Software con IA
