@@ -1,31 +1,25 @@
 # Hola, soy David Ayala 👋
-### Desarrollador Full-Stack & Estudiante de Ingeniería de Software
+### Desarrollador Full-Stack & Estudiante de Ing. de Software con IA
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas con impacto real, residenciado en Pisco, Perú. Actualmente curso el quinto semestre de Ingeniería de Software con Inteligencia Artificial, donde aplico rigurosidad técnica en el desarrollo de sistemas complejos.
+Soy de Pisco, Perú, y actualmente curso mi quinto semestre. Me apasiona crear soluciones tecnológicas eficientes, desde la base de datos hasta la interfaz de usuario.
 
-## 🚀 Proyectos Destacados
+## 🚀 Lo que hago
+* **Desarrollo Web (Sector Salud):** Creación de un Sistema Integral de Historias Clínicas y módulos de automatización de recetas (PHP/MySQL).
+* **Infraestructura y Despliegue:** Configuración de servidores locales con IP fija (formación Red Hat) y despliegue de landing pages con Vercel.
+* **IA & Machine Learning:** Explorando modelos de Deep Learning con TensorFlow y Keras.
+* **Stack Principal:** React, JavaScript, PHP, MySQL, Python, GSAP, Git/GitHub y WampServer.
 
-* **Sistema de Gestión de Historias Clínicas:** Lideré el desarrollo integral de un sistema robusto (PHP/MySQL), desde el mapeo de base de datos hasta la implementación funcional, optimizando el flujo de trabajo médico.
-* **Automatización Médica:** Desarrollé e implementé un módulo de impresión automatizada para recetas médicas, mejorando la eficiencia operativa en consultorios.
-* **Landing Pages Profesionales:** Despliegue y gestión de sitios web para el sector salud utilizando Vercel y dominios personalizados, asegurando una presencia digital profesional y de alto rendimiento.
-* **Infraestructura y Redes:** Experiencia en configuración de servidores locales con IP fija y administración de sistemas, complementada con formación en Red Hat System Administration.
-
-## 🧠 Áreas de Enfoque
-
-* **IA & Machine Learning:** Profundizando en Deep Learning mediante el uso de TensorFlow y Keras para la resolución de problemas predictivos.
-* **Stack Técnico:** Dominio de React, JavaScript, PHP, MySQL, Python y bibliotecas de animación como GSAP para interfaces interactivas.
-* **Herramientas:** Gestión eficiente de entornos con WampServer, control de versiones con Git/GitHub y despliegues optimizados.
-
-## 🎯 Metas Profesionales
-
-Mi objetivo es alcanzar el nivel de **Senior Developer** y obtener certificaciones Cloud profesionales (**AWS o Azure**) para 2028, liderando proyectos que fusionen la ingeniería de software tradicional con la potencia de la Inteligencia Artificial.
+🎯 **Mi meta:** Alcanzar el nivel Senior y obtener certificaciones Cloud (AWS/Azure) para 2028.  
+⚡ **Dato curioso:** Cuando no estoy programando, me encontrarás rankeando en Valorant, LoL o Blood Strike.
 
 ---
 
-⚡ **Dato curioso:** Cuando no estoy optimizando bases de datos o configurando servidores, me encontrarás en League of Legends, Valorant o Blood Strike. ¡Siempre listo para un buen reto, sea en el código o en la partida!
-
 ## 📊 Mis Estadísticas
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviLavoe&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DaviLavoe&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviLavoe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DaviLavoe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
