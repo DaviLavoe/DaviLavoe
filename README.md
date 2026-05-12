@@ -28,4 +28,4 @@ Mi objetivo es alcanzar el nivel de **Senior Developer** y obtener certificacion
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviLavoe&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DaviLavoe&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DaviLavoe&layout=compact&theme=tokyonight&hide_border=true)
