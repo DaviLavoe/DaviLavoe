@@ -6,7 +6,7 @@
 
 ### Desarrollador Full-Stack & Estudiante de Ing. de Software con IA
 
-Soy de Pisco, Perú, y actualmente curso mi quinto semestre. Me apasiona crear soluciones tecnológicas eficientes, desde la base de datos hasta la interfaz de usuario.
+Soy de Pisco, Perú, y actualmente curso mi quinto semestre. Creo soluciones tecnológicas , desde la base de datos hasta la interfaz de usuario.
 
 ## 🚀 Lo que hago
 
