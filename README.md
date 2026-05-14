@@ -6,14 +6,32 @@
 
 ### Desarrollador Full-Stack & Estudiante de Ing. de Software con IA
 
-Soy de Pisco, Perú, y actualmente curso mi quinto semestre. Creo soluciones tecnológicas , desde la base de datos hasta la interfaz de usuario.
+Soy de Pisco, Perú, y actualmente curso mi quinto semestre. Creo soluciones tecnológicas, desde la base de datos hasta la interfaz de usuario.
 
-## 🚀 Lo que hago
+---
+
+## 🚀 Lo que hago y mi Stack
+
+<div align="center">
+  <h3>💻 Mi Stack Tecnológico</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=gsap&logoColor=white" alt="GSAP" />
+  </p>
+</div>
 
 * **Desarrollo Web (Sector Salud):** Creación de un Sistema Integral de Historias Clínicas y módulos de automatización de recetas (PHP/MySQL).
-* **Infraestructura y Despliegue:** Configuración de servidores locales con IP fija (formación Red Hat) y despliegue de landing pages con Vercel.
+* **Infraestructura y Despliegue:** Configuración de servidores locales con IP fija (formación Red Hat), despliegue de landing pages con Vercel. Entornos locales con WampServer.
 * **IA & Machine Learning:** Explorando modelos de Deep Learning con TensorFlow y Keras.
-* **Stack Principal:** React, JavaScript, PHP, MySQL, Python, GSAP, Git/GitHub y WampServer.
 
 🎯 **Mi meta:** Alcanzar el nivel Senior y obtener certificaciones Cloud (AWS/Azure) para 2028.  
 ⚡ **Dato curioso:** Cuando no estoy programando, me encontrarás rankeando en Valorant, LoL o Blood Strike.
